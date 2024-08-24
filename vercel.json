@@ -10,8 +10,7 @@
     "routes": [
         {
             "src":"/(.*)",
-            "dest":"/",
-            "excludeFiles": "{.next,*.cache,node_modules,public,app}/**"
+            "dest":"/"
         }
     ]
 }
