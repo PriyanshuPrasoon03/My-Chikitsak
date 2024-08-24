@@ -1,0 +1,17 @@
+# Exclude Python cache files
+__pycache__/
+*.pyc
+
+# Exclude local environment files
+.env
+
+# Exclude Git repository
+.git/
+
+# Exclude local node_modules if you have Node.js dependencies
+node_modules/
+
+# Exclude other unnecessary files and folders
+docs/
+tests/
+*.md
